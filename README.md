@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishal-Gitlab&show_icons=true&locale=en&layout=compact" alt="Vishal-Gitlab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-gitlab&" alt="Vishal-Gitlab" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vihal-gitlab&" alt="Vishal-Gitlab" /></p>
